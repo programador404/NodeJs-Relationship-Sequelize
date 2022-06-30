@@ -7,7 +7,7 @@
 
 
 # NodeJs Relationship With Sequelize
-This repository contain an application created with Nodejs to do a relationship using Sequelize
+This repository contain an application created with Nodejs to do a relationship using Sequelize.
 
 ## Relations
 - One to One
